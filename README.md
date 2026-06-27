@@ -1,16 +1,43 @@
-## Hi there 👋
+# Bahadır Dikici
 
-<!--
-**bahadrdkc/bahadrdkc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student (4th semester) at **Hochschule Bonn-Rhein-Sieg**, based in Siegburg, Germany.
 
-Here are some ideas to get you started:
+I build things I would use myself — from SaaS platforms to personal productivity tools. My focus is on full-stack web development and AI integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently looking for a **Werkstudent position** in IT.
+
+---
+
+## Tech Stack
+
+**Languages:** JavaScript · TypeScript · Python · Java · SQL
+
+**Frontend:** Next.js · React · Tailwind CSS
+
+**Backend & Database:** Supabase · PostgreSQL · REST APIs
+
+**Tools:** Git · GitHub · VS Code · Vercel · Claude Code
+
+**AI:** Claude API · MCP Integration · Prompt Engineering · AI-assisted development
+
+---
+
+## Projects
+
+**[LoyaltyApp](https://github.com/bahadrdkc/loyaltyapp)**
+SaaS platform for café owners — digital stamp cards, automated campaigns, staff management panel.
+`Next.js` `TypeScript` `Supabase` `RLS` `Claude API`
+
+**[on my mind](https://github.com/bahadrdkc/second-brain)**
+Personal life OS — tasks, focus sessions, habit tracking and notes in one unified app.
+`Next.js 16` `React 19` `Zustand` `Supabase` `PWA`
+
+---
+
+## Languages
+
+German — B2 &nbsp;|&nbsp; English — B2 &nbsp;|&nbsp; Turkish — Native
+
+---
+
+**Contact:** bahadir@gurmedya.com
