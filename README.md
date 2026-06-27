@@ -36,7 +36,7 @@ Personal life OS — tasks, focus sessions, habit tracking and notes in one unif
 
 ## Languages
 
-German — B2 &nbsp;|&nbsp; English — B2 &nbsp;|&nbsp; Turkish — Native
+German — B2/C1(telc Hochschule Zertifikat) &nbsp;|&nbsp; English — B2 &nbsp;|&nbsp; Turkish — Native
 
 ---
 
