@@ -14,11 +14,11 @@ Ich suche eine **Werkstudentenstelle in KI oder Webentwicklung**, bis 20 Std./Wo
 
 **[Jarvis](https://bahadir-dikici.vercel.app/work/jarvis)**: mein KI-Assistent auf dem eigenen Server. Dashboard, Telegram-Bot, Recherche über Nacht und ein zweites Gehirn in Obsidian. KI-Agenten ändern den Code nur über eine Testkopie und ein Review.
 
-**[Zeit für Kaffee](https://bahadir-dikici.vercel.app/work/zfk)**: Schichtplan-App und neue Website mit Online-Bewerbung für das Café, in dem ich als Barista arbeite. Im Einsatz. Row Level Security auf allen 20 Tabellen, 133 Testfälle.
+**[Zeit für Kaffee](https://bahadir-dikici.vercel.app/work/zfk)**: Schichtplan-App und neue Website mit Online-Bewerbung für das Café, in dem ich als Barista arbeite. Im Einsatz. Row Level Security auf allen 25 Tabellen, 241 Testfälle.
 
-**[Hub](https://bahadir-dikici.vercel.app/work/hub)**: gemeinsamer Arbeitsplatz für unser Team aus vier Entwicklern und ihre KI-Agenten. Agenten stellen Anfragen, statt fremden Code umzuschreiben.
+**[Hub](https://bahadir-dikici.vercel.app/work/hub)**: gemeinsamer Arbeitsplatz für unser kleines Team und seine KI-Agenten. Agenten stellen Anfragen, statt fremden Code umzuschreiben.
 
-**[InfinityMade-Website](https://bahadir-dikici.vercel.app/work/infinitymade-website)**: Website unseres Teams mit Logo-Intro und 3D-Animation auf Canvas, ohne Framework.
+**[Websites](https://bahadir-dikici.vercel.app/work/websites)**: eine Auswahl von Websites.
 
 Der Code dieser Projekte ist privat (persönliche Daten und Serverzugänge). Alles Weitere steht im Portfolio.
 
